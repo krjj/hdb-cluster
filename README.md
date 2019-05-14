@@ -55,3 +55,12 @@ node index.js
 ```
 
 Script will read the input.txt file. This file contains sample data.
+
+
+### Time Required
+
+```
+Implementation
+----------------------------------------------
+1 hr 50 min
+```
